@@ -1,1 +1,1 @@
-# Task-4-El-
+In Task 4 of the SQL Developer Internship, we explored the use of aggregate functions to summarize and analyze tabular data. We practiced applying key functions such as SUM, COUNT, and AVG on numeric columns. We used the GROUP BY clause to group data based on categories like product or customer, and applied the HAVING clause to filter grouped results based on aggregate conditions. This task enhanced our understanding of how to derive insights and summaries from large datasets using SQL.
